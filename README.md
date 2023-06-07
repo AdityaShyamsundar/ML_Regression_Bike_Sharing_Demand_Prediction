@@ -1,5 +1,3 @@
 # ML_Regression_Bike_Sharing_Demand_Prediction
 
-In the highly competitive mobile phone market, companies aim to comprehend sales data and the factors that influence prices. The objective is to establish a relationship between the mobile phone's features (such as RAM, internal memory, etc.) and its selling price. The goal is not to predict the exact price but to determine the price range, indicating its relative affordability.
-
-The aim of this project is to predict the price range of mobile phones based on their specifications such as battery power, 3G capability, Wi-Fi connectivity, Bluetooth functionality, RAM, and more.
+We have to develop a predictive model that accurately forecasts the demand for bike sharing in Seoul, South Korea. The model should take into account various factors such as weather conditions, time of day, day of the week, and other relevant variables to provide accurate predictions of the number of bikes that will be rented at a given time. The goal is to help bike sharing companies optimize their operations, improve resource allocation, and enhance customer satisfaction by ensuring a sufficient supply of bikes at high-demand locations and times.
